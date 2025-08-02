@@ -167,11 +167,9 @@ Bảng hiển thị thông tin:
 
 ### Dữ liệu
 - Dữ liệu được tự động lưu khi có thay đổi
-- Có thể xuất dữ liệu ra file text
 - Backup dữ liệu định kỳ được khuyến nghị
 
 ### Hiệu suất
-- Ứng dụng chạy mượt mà với tối đa 1000 học sinh
 - Tìm kiếm real-time không làm chậm hệ thống
 - Giao diện responsive và thân thiện
 
@@ -197,7 +195,7 @@ Bảng hiển thị thông tin:
 Nếu gặp vấn đề, vui lòng:
 1. Kiểm tra log lỗi trong console
 2. Thử khởi động lại ứng dụng
-3. Liên hệ đội phát triển với thông tin lỗi chi tiết
+3. Liên hệ đội zalo 0326791337
 
 ## Phiên bản
 - **Version**: 1.0-SNAPSHOT
