@@ -195,9 +195,9 @@ Bảng hiển thị thông tin:
 Nếu gặp vấn đề, vui lòng:
 1. Kiểm tra log lỗi trong console
 2. Thử khởi động lại ứng dụng
-3. Liên hệ đội zalo 0326791337
+3. Liên hệ nếu có lỗi zalo: 0326791337
 
 ## Phiên bản
 - **Version**: 1.0-SNAPSHOT
-- **Ngày phát hành**: 2024
-- **Tác giả**: Development Team 
+- **Ngày phát hành**: 02/08/2025
+- **Tác giả**: Quang Vinh
