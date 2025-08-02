@@ -1,0 +1,10 @@
+model\ClassRoom.class
+gui\StudentManagementGUI$2.class
+util\DBUtil.class
+util\FileHandler.class
+gui\StudentManagementGUI$3.class
+util\UserDAO.class
+model\Student.class
+gui\RegisterAPI.class
+gui\StudentManagementGUI$1.class
+gui\StudentManager.class
